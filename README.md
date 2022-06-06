@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Diego+Alonso+Morey+Quispe)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykong.gif" class="responsive"/>
-<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif" class="responsive"/>
+#<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykong.gif" class="responsive"/>
+#<img src="https://github.com/alzheimeer/alzheimeer/blob/master/multimedia/donkeykongcontent.gif" class="responsive"/>
 
 ## Stats
 
