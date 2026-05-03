@@ -35,7 +35,6 @@ I specialize in automating business processes, lead management systems, and AI-p
 <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
 <img src="https://img.icons8.com/color/48/redis.png"/>
 <img src="https://img.icons8.com/color/48/supabase.png"/>
-<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-n8n-a-free-and-source-available-workflow-automation-tool-logo-color-tal-revivo.png"/>
 
 <br/>
 
@@ -44,6 +43,7 @@ I specialize in automating business processes, lead management systems, and AI-p
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
+<img src="https://img.logokit.com/n8n.io">
 
 </p>
 ---
