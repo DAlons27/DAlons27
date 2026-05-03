@@ -32,9 +32,9 @@
     <!-- twitter -->
     <a href="https://twitter.com/DiegoMoreyQ"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="40px" alt="Twitter"> </a> &nbsp; &nbsp;
     <!-- Instagram-->
-    <a href="https://www.instagram.com/damoreyq/"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
+    <a href="[https://www.instagram.com/damoreyq/](https://www.instagram.com/alo_en.dev/)"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
     <!-- gmail-->
-    <a href="https://www.facebook.com/profile.php?id=100057410209855"><img src="https://img.icons8.com/fluency/344/facebook.png" width="40px" alt="Facebook"></a> &nbsp; &nbsp;
+    <a href="[https://www.facebook.com/profile.php?id=100057410209855](https://www.facebook.com/diegoalonso.moreyquispe)"><img src="https://img.icons8.com/fluency/344/facebook.png" width="40px" alt="Facebook"></a> &nbsp; &nbsp;
 </p>
 
 
