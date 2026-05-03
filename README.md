@@ -19,10 +19,8 @@ I specialize in automating business processes, lead management systems, and AI-p
 ## 📊 Stats
 
 <p align="center">
-<a href="https://github.com/DAlons27">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAlons27&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlons27&layout=compact&langs_count=8&theme=react"/>
-</a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAlons27&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=86400"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlons27&layout=compact&langs_count=8&theme=react&cache_seconds=86400"/>
 </p>
 
 ---
@@ -31,28 +29,23 @@ I specialize in automating business processes, lead management systems, and AI-p
 
 <p align="center">
 
-<!-- Languages -->
-<code><img src="https://img.icons8.com/color/48/python--v2.png"/></code>
-<code><img src="https://img.icons8.com/color/48/javascript.png"/></code>
+<!-- Row 1 -->
+<img src="https://img.icons8.com/color/48/python--v2.png"/>
+<img src="https://img.icons8.com/color/48/javascript.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/redis.png"/>
+<img src="https://img.icons8.com/color/48/supabase.png"/>
+<img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-n8n-a-free-and-source-available-workflow-automation-tool-logo-color-tal-revivo.png"/>
 
-<!-- Backend & Data -->
-<code><img src="https://img.icons8.com/color/48/mysql-logo.png"/></code>
-<code><img src="https://img.icons8.com/color/48/redis.png"/></code>
-<code><img src="https://img.icons8.com/color/48/supabase.png"/></code>
+<br/>
 
-<!-- Automation -->
-<code><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-n8n-a-free-and-source-available-workflow-automation-tool-logo-color-tal-revivo.png"/></code>
-
-<!-- AI -->
-<code><img src="https://img.icons8.com/ios-filled/50/chatgpt.png"/></code>
-
-<!-- Tools -->
-<code><img src="https://img.icons8.com/color/48/git.png"/></code>
-<code><img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/></code>
-<code><img src="https://img.icons8.com/color/48/ubuntu--v1.png"/></code>
+<!-- Row 2 -->
+<img src="https://img.icons8.com/ios-filled/50/chatgpt.png"/>
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
+<img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
 
 </p>
-
 ---
 
 ## ⚙️ What I Build
