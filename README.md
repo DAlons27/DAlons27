@@ -30,20 +30,20 @@ I specialize in automating business processes, lead management systems, and AI-p
 <p align="center">
 
 <!-- Row 1 -->
-<img src="https://img.icons8.com/color/48/python--v2.png"/>
-<img src="https://img.icons8.com/color/48/javascript.png"/>
-<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
-<img src="https://img.icons8.com/color/48/redis.png"/>
-<img src="https://img.icons8.com/color/48/supabase.png"/>
+<img src="https://img.icons8.com/color/48/python--v2.png" width="40"/>
+<img src="https://img.icons8.com/color/48/javascript.png" width="40"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png" width="40"/>
+<img src="https://img.icons8.com/color/48/redis.png" width="40"/>
+<img src="https://img.icons8.com/color/48/supabase.png" width="40"/>
 
 <br/>
 
 <!-- Row 2 -->
-<img src="https://img.icons8.com/ios-filled/50/chatgpt.png"/>
-<img src="https://img.icons8.com/color/48/git.png"/>
-<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-<img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
-<img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_.png" alt="n8n Logo Icon">
+<img src="https://img.icons8.com/ios-filled/50/chatgpt.png" width="40"/>
+<img src="https://img.icons8.com/color/48/git.png" width="40"/>
+<img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" width="40"/>
+<img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="40"/>
+<img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_.png" alt="n8n Logo Icon" width="40"/>
 
 </p>
 ---
