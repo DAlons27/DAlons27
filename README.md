@@ -30,7 +30,7 @@
     <!-- linkedin -->
     <a href="https://www.linkedin.com/in/admorey/"><img src="https://cdn4.iconfinder.com/data/icons/social-messaging-ui-color-shapes-2-free/128/social-linkedin-circle-512.png" width="40px" alt="LinkedIn"></a> &nbsp; &nbsp;
     <!-- twitter -->
-    <a href="https://twitter.com/DiegoMoreyQ"><img src="https://webtus.net/wp-content/uploads/2016/05/Icon-Twitter.png" width="40px" alt="Twitter"> </a> &nbsp; &nbsp;
+    <a href="https://twitter.com/DiegoMoreyQ"><img src="https://img.icons8.com/ios-filled/50/twitterx--v1.png" width="40px" alt="Twitter"> </a> &nbsp; &nbsp;
     <!-- Instagram-->
     <a href="https://www.instagram.com/alo_en.dev/"><img src="https://img.icons8.com/color/344/instagram-new--v1.png" width="40px" alt="Instagram"></a> &nbsp; &nbsp;
     <!-- gmail-->
