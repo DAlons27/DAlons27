@@ -14,10 +14,14 @@ I specialize in automating business processes, lead management systems, and AI-p
 
 ## 📊 Stats
 
+<br />
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAlons27&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=86400"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlons27&layout=compact&langs_count=8&theme=react&cache_seconds=86400"/>
+<a href="https://github.com/DAlons27">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAlons27&show_icons=true&theme=react&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=DAlons27&layout=compact&langs_count=8&theme=react"/>
+</a>
 </p>
+<br />
 
 ## 🧠 Tech Stack
 
