@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Automation+Engineer+%7C+AI+Developer+%7C+Backend)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
----
-
 ## 🚀 About Me
 
 Automation & AI Developer focused on building real-world solutions using:
@@ -14,16 +12,12 @@ Automation & AI Developer focused on building real-world solutions using:
 
 I specialize in automating business processes, lead management systems, and AI-powered workflows.
 
----
-
 ## 📊 Stats
 
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DAlons27&show_icons=true&theme=react&include_all_commits=true&count_private=true&cache_seconds=86400"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DAlons27&layout=compact&langs_count=8&theme=react&cache_seconds=86400"/>
 </p>
-
----
 
 ## 🧠 Tech Stack
 
@@ -46,7 +40,6 @@ I specialize in automating business processes, lead management systems, and AI-p
 <img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_.png" alt="n8n Logo Icon" width="60"/>
 
 </p>
----
 
 ## ⚙️ What I Build
 
@@ -55,8 +48,6 @@ I specialize in automating business processes, lead management systems, and AI-p
 - 🧠 LLM-based classification & decision systems
 - 📊 Lead scoring & CRM automation
 - ⚡ API integrations & backend services
-
----
 
 ## 📌 Featured Work (replace with real links)
 
@@ -70,8 +61,6 @@ I specialize in automating business processes, lead management systems, and AI-p
 - Complex decision trees using n8n
 - External API integrations
 - Data persistence with Supabase
-
----
 
 ## 📫 Contact
 
