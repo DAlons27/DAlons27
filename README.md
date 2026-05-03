@@ -43,7 +43,7 @@ I specialize in automating business processes, lead management systems, and AI-p
 <img src="https://img.icons8.com/color/48/git.png"/>
 <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
 <img src="https://img.icons8.com/color/48/ubuntu--v1.png"/>
-<img src="https://img.logokit.com/n8n.io">
+<img src="https://www.freelogovectors.net/wp-content/uploads/2025/06/nsn_logo-freelogovectors.net_.png" alt="n8n Logo Icon">
 
 </p>
 ---
